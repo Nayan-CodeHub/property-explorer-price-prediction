@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+# Generated training and runtime data
+housing_data*.csv
+best_model*.pkl
+users.db
+users.pkl
+property_photos/
+
+# Local environment and secrets
+.venv/
+.env
+
+# Streamlit local state
+.streamlit/
