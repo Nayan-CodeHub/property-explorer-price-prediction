@@ -135,8 +135,7 @@ The dashboard uses practical property details including area, bedrooms, bathroom
 - Register or log in using the username `admin` to access **Creator tools** in the prediction dashboard.
 - Upload one or more building photos and enter the locality, building name, available-flat count, and caption.
 - Published photos are saved in the `property_photos` folder and their details are stored in `users.db`.
-- All users can view the published building gallery for the selected locality before requesting a price estimate.
-
+- All users can view the published building gallery for the selected locality before requesting a price estimate....
 This is a local creator workflow for the project demo. For production, add role management and cloud image storage instead of relying on the special `admin` username.
 
 ## 🚀 Future Improvements
